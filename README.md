@@ -43,10 +43,4 @@ The goal is to predict whether a customer will complete their booking using rele
 - Experiment with alternative models (e.g., XGBoost, SVM).
 - Improve feature engineering.
 
-## Contact
-For any inquiries, please reach out via GitHub Issues.
-
----
-**Author:** Shivangi Singal
-
 
